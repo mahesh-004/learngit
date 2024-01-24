@@ -16,7 +16,7 @@ int main() {
     double sum = num1 + num2;
 
     // Display the result
-    std::cout << "The sum of " << num1 << " and " << num2 << " is: " << sum << std::endl;
+    std::cout << "nnjn" << num1 << " and " << num2 << " is: " << sum << std::endl;
 
     return 0;
 }
